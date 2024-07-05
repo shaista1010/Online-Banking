@@ -1,0 +1,61 @@
+h1{
+	color:crimson;
+}
+p{
+	color:aqua;
+}
+
+a:link{
+	text-decoration:none;
+}
+a:active{
+	color:yellow
+}
+a:hover{
+	color:blue;
+	background-color:gray;
+	padding:5px;
+	border-radius:5px;
+	text-shadow:1px 1px black;
+}
+
+
+#name1{
+ width:20%;
+ height:10%;
+ background-color:yellow;
+ border-style:dashed;
+ border-top-left-radius:10px;
+}
+
+#name2{
+ width:20%;
+ height:10%;
+ background-color:yellow;
+ border-style:dashed;
+ border-top-right-radius:10px;
+}
+
+#name3{
+ width:20%;
+ height:10%;
+ background-color:yellow;
+ border-style:solid;
+ border-bottom-right-radius:10px;
+}
+
+#name4{
+ width:20%;
+ height:10%;
+ background-color:yellow;
+ border-style:double;
+ border-bottom-left-radius:10px;
+}
+
+#name5{
+ width:20%;
+ height:10%;
+ background-color:yellow;
+ border-style:groove;
+ border-radius:10px;
+}
